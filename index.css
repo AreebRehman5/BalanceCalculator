@@ -43,7 +43,7 @@
   }
   
   .inc-exp-container {
-    background-color: hsl(0, 14%, 4%);
+    background-color: rgb(15, 14, 14);
     box-shadow: var(--box--shadow);
     padding: 20px;
     display: flex;
@@ -57,7 +57,7 @@
   }
   
   .inc-exp-container > div:first-of-type {
-    border-right: 1px solid hsl(0, 10%, 6%);
+    border-right: 1px solid #090c0a;
   }
   
   .money {
@@ -90,7 +90,7 @@
   
   .btn {
     cursor: pointer;
-    background-color: hsl(0, 0%, 1%);
+    background-color: hwb(320 10% 2%);
     box-shadow: var(--box-shadow);
     color: #fff;
     border: 0;
